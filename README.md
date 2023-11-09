@@ -1,5 +1,5 @@
 # PROJECT: TMDB Movie Dataset Analysis
-#### Author: Abasifreke Nkanang
+#### Author: Abasifreke Nkanang (DataBishop)
 
 #### Date: August 13, 2022
 
