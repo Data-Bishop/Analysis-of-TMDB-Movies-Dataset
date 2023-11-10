@@ -1,6 +1,8 @@
 # PROJECT: TMDB Movie Dataset Analysis
 #### Author: Abasifreke Nkanang (DataBishop)
 
+#### Tools/Languages used - Python, Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn
+
 #### Date: August 13, 2022
 
 
